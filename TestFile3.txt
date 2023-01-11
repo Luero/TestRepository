@@ -1,0 +1,2 @@
+Just another file to test GIT.
+v. 1.0
