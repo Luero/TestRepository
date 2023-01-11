@@ -1,2 +1,2 @@
 This is a test file to practise with GIT. 
-v.1.0
+v.2.0
